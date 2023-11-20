@@ -1,0 +1,7 @@
+1) Why RoleRepository Optional<Role> findByName function?
+2) Why @Transactional is used in UserService ?
+3) @EnableWebSecurity and @EnableGlobalMethodSecurity(SecuredEnabled) = True, Why it is needed? in SecurityConfiguration
+4) What is @Bean?
+5) Is authentication manager/provider needed? in SecurityConfiguration
+6) Customize loadByUsername in UserService
+7)

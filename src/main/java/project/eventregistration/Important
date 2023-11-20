@@ -1,0 +1,7 @@
+1) User.photo is nullable
+2) User has 1 Role, N authorities where role should be "ROLE_ADMIN", "ROLE_USER"
+3) Change exception in UserService(when username is not found, or given wrong name)
+4) CORS are disabled
+5) AuthService.authenticationService change error when username/password is wrong
+6) Fix the problem with same email in AuthService
+7) Убрал роли, и сделал event.creator
